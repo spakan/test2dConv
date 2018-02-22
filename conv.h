@@ -6,3 +6,4 @@ typedef struct {
 	int y;
 }matrix2d_t;
 
+void runMask();
